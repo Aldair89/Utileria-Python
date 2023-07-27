@@ -1,0 +1,2 @@
+# Utileria-Python
+Estos comandos son específicos para sistemas Windows y utilizan herramientas como netsh, bthprops.cpl y Set-MpPreference. Ten en cuenta que algunos de estos comandos pueden requerir permisos de administrador para ejecutarse correctamente. Asegúrate de ejecutar el programa con privilegios de administrador si es necesario para evitar errores al ejecutar los comandos de habilitar/deshabilitar funciones del sistema.
